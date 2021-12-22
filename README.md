@@ -1,4 +1,4 @@
-# What is MyProduct?
+# Fin Care
 
 {% hint style="info" %}
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
@@ -30,8 +30,8 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="guides/creating-your-first-project/" %}
+[creating-your-first-project](guides/creating-your-first-project/)
 {% endcontent-ref %}
 
 {% content-ref url="guides/creating-your-first-task.md" %}

@@ -1,10 +1,11 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [Fin Care](README.md)
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
+* [Creating your first project](guides/creating-your-first-project/README.md)
+  * [About Company](guides/creating-your-first-project/about-company.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
