@@ -28,3 +28,7 @@
 ## Extras
 
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+
+## Architecture
+
+* [Page 1](architecture/page-1.md)
